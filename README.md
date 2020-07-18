@@ -9,7 +9,7 @@ This project was built with Apache NetBeans IDE 12.0 and Java SE Development Kit
 ## Installation
 
 ### Option 1
-Download and run the installation script. It installs BotoSeis at your home directory `$HOME` and sets the enviroment variables at the `~/.bashrc` file.
+Download and run the [installation script](https://gist.github.com/botoseis/fe86c3c13f65e3d43b11e4fa9560ce30). It installs BotoSeis at your home directory `$HOME` and sets the enviroment variables at the `~/.bashrc` file.
 ```
 bash -c $(wget -qO- https://git.io/JJnRY)
 ```
